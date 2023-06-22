@@ -1,16 +1,21 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+# mdhameem
+- project: My Personal Website
+  role: Web Developer and Website Maintenance.
+  duration: 2023 &mdash; Present
+  url: "mdhameem.github.io"
+  description: I am currently in the process in desiging my own website using Jekyll themes and Github pages.
+# gonosheba
+- project: Website Development For Gonosheba Sanstha, Gazipur.
+  role: Web Developer , SEO Manager and Website Maintenance.
+  duration: 2023 &mdash; Present
+  url: "gonosheba.org"
+  description: We Designed And Developed their Official Web portal && Company Portfolio Website.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# motiveautomation
+- project: Website Development For Motive Automation.
+  role: Web Developer , SEO Manager and Website Maintenance.
+  duration: 2020 &mdash; Present
+  url: "motiveautomation.com"
+  description: I Designed And Developed the Offical Web portal, Company Portfolio and E-commerce Website for our company Motive Automation.
