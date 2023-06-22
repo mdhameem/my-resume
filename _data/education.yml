@@ -8,11 +8,9 @@
 
 - degree: H.S.C
   uni: Vashantek Government College
-  year: 2019
-  summary: .<ul><li>GPA- 4.67</li><li>Department- Science</li></ul>
+  year: 2019 &mdash;2021 <br> <ul><li>GPA- 4.67</li><li>Department- Science</li></ul>
   #award: Most likely to succeed
   #summary: You can choose to have either a single or multiple awards
 - degree: S.S.C
   School: Mirpur Government High School
-  year: 2017
-  summary: .<ul> <li>GPA- 4.33</li><li>Department- Science</li></ul>
+  year: 2017 &mdash; 2019 <br> <ul> <li>GPA- 4.33</li><li>Department- Science</li></ul>
