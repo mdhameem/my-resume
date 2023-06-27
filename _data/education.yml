@@ -7,14 +7,10 @@
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: H.S.C
-  College: Vashantek Government College
-  year: 2019
-  GPA: 4.67
-  Department: Science
+  uni: Vashantek Government College
+  year: 2019 &mdash;2021 <br> <ul><li>GPA- 4.67</li><li>Department- Science</li></ul>
   #award: Most likely to succeed
   #summary: You can choose to have either a single or multiple awards
 - degree: S.S.C
-  School: Mirpur Government High School
-  year: 2017
-  GPA: 4.33
-  Department: Science
+  uni: Mirpur Government High School
+  year: 2017 &mdash; 2019 <br> <ul> <li>GPA- 4.33</li><li>Department- Science</li></ul>
