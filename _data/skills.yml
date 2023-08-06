@@ -13,4 +13,7 @@
 
 # Digital content development and creation
 - skill: Programming language
-  description: I can code with HTML, CSS, bootstrap CSS, Javascript , Jquary, Jakyll, Shellscript etc.
+  description: I can code with HTML, CSS, bootstrap CSS, Javascript , Jquary, Jakyll, Shellscript, C, C++, Python etc.
+#tools
+- skill: Essential Tools
+  description: Google Colab, Google search Console, Google Webmaster Tools, VS Code etc.
