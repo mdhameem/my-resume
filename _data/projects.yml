@@ -7,17 +7,21 @@
   duration: 2020 &mdash; Present
   url: "https://motiveautomation.com"
   description: I Designed And Developed the Offical Web portal, Company Portfolio and E-commerce Website for Motive Automation.
-
+# motiveautomation
+- project: Indrustrial Wiring Installation At Beacon Pharmaceuticals PLC.
+  role: Industrial Electrician
+  duration: 26th February 2023  &mdash; 29th May 2023
+  description: I worked as a Industrial Electrician through Motive Automation at Beacon Pharmaceuticals PLC on a Indrustrial Wiring Installation Project.
 # mdhameem
 - project: My Personal Website
   role: Web Developer and Website Maintenance.
   duration: 2023 &mdash; Present
-  url: "https://mdhameem.github.io"
+  url: "https://mdhameem.github.io/resume"
   description: I am currently in the process in desiging my own website using Jekyll themes and Github pages.
 # atspowerltd
 - project: Website Development For ATS Power Ltd.
   role: Web Developer , SEO Manager and Website Maintenance.
-  duration: 2020 &mdash; Present
+  duration: 2023 &mdash; Present
   url: "https://atspower.com.bd"
   description: I Designed And Developed the Offical Web portal, Company Portfolio and Product Catalog Website for ATS Power Ltd.
 # gonosheba
