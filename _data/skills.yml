@@ -8,12 +8,12 @@
   description: I can Proficiently Speak in English and Bengali Language.
 
 # Digital content development and creation
-- skill: Digital content development and creation
+- skill: Graphics Design And Digital Content Creation
   description: I am able to design logos, website page layouts, images, vectors using <ul><li>Adobe Photoshop</li><li>Adobe Illustator</li><li>Figma</<li><li>Canva</<li></ul>
 
 # Digital content development and creation
 - skill: Programming language
-  description: I can code with HTML, CSS, bootstrap CSS, Javascript , Jquary, Jakyll, Shellscript, C, C++, Python etc.
+  description: I can code with HTML, CSS, bootstrap CSS, Javascript ,Next.js, React.js, Shellscript, C, C++, Python etc.
 #tools
 - skill: Essential Tools
-  description: Google Colab, Google search Console, Google Webmaster Tools, VS Code etc.
+  description: Google Colab, Google search Console, Google Webmaster Tools, Netlify, Jakyll VS Code etc.

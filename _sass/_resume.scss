@@ -11,7 +11,6 @@
     @include sans;
     font-weight: 900;
     font-size: 1.75rem;
-    letter-spacing: -.05rem;
     margin: 0;
   }
 }
@@ -71,6 +70,7 @@
 
   .executive-summary {
     @include media_larger_than_mobile { font-size: 1.125rem; }
+    text-align: justify;
   }
 }
 
@@ -199,7 +199,7 @@
 @media print {
   .no-print { display: none !important }
   .print-only { display: block !important }
-  body { font-size: 12px; line-height: 1rem; }
+  body { font-size: 12px; line-height: 1.2rem; }
   .page-header { padding: 1rem 0 .2rem;
     .header-name {
       @include sans_bold;
@@ -217,14 +217,14 @@
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
       font-size: 16px;
-      line-height: .7em;
+      line-height: 1rem;
     }
 
     .resume-item-details {
       font-size: 12px;
       margin: 0 0 .75rem;
-      line-height: .7em;
-      font-style:italic;
+      line-height: 1rem;
+      font-weight: 900;
 
       &.award-title {
         font-size: 11px;
