@@ -47,7 +47,7 @@
   }
 
   .title-bar {
-    //@include section_border;
+    @include section_border;
     margin-top: 0;
     padding: .4rem 0;
     @include clearfix;
@@ -82,7 +82,7 @@
   position: relative;
   //top: 4px;
   text-align: center;
-  border-bottom: 1px solid;
+  border-bottom: 0;
   padding-top: 0;
 
   @include media_larger_than_mobile {
