@@ -3,6 +3,9 @@
 - skill: Web Development
   description: I have several years of experience developing Websites for my own hobby and Professional Career.
 
+  - skill: Programming languages, libraries and Frameworks.
+  description: I can code with React.js, HTML, CSS, bootstrap CSS, Javascript, Shellscript, C, C++, Python etc.
+
 # Communications strategy
 - skill: Communications
   description: I can Proficiently Speak in English and Bengali Language.
@@ -12,8 +15,6 @@
   description: I am able to design and create logos, webpage layouts, images, vectors, banners, ads, motion graphics using <ul><li>Adobe Photoshop</li><li>Adobe Illustator</li><li>Adobe After effects<li>Figma</<li><li>Canva</<li></ul>
 
 # Digital content development and creation
-- skill: Programming language
-  description: I can code with HTML, CSS, bootstrap CSS, Javascript ,Next.js, React.js, Shellscript, C, C++, Python etc.
 #tools
 - skill: Essential Tools
   description: Google Colab, Google search Console, Google Webmaster Tools, Netlify, Jakyll, Wordpress, Autocad, VS Code etc.
